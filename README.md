@@ -40,8 +40,7 @@ TDD-ASSESSMENT/
 - Handles empty strings.
 - Supports multiple delimiters.
 - Throws exceptions for negative numbers.
-- Adheres to TDD principles.
-
+  
 ## How It Works
 - Input strings are parsed based on specified or default delimiters.
 - Numbers are summed up, throwing errors for negative values.
