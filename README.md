@@ -7,8 +7,7 @@ This repository contains an implementation of the String Calculator TDD Kata usi
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd string_calculator
+   git clone https://github.com/smb-it-coder/tdd-assessment-.git
    ```
 
 2. Create a virtual environment and install dependencies:
